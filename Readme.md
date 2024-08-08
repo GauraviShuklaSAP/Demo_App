@@ -1,1 +1,1 @@
-Demo app CLM Day
+HCL demo for Demo apps
