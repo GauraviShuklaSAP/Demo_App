@@ -1,1 +1,1 @@
-HCL demo for Demo apps for test
+BTP DevOps demo for CI/CD Integratiion
